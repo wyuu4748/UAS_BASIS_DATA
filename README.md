@@ -1,6 +1,8 @@
 Repository github ini adalah final project 
 PEMROGRAMAN BASIS DATA
-database TOKO KOMPUTER
+
+kami mengambil tema untuk
+membuat sistem database TOKO KOMPUTER
 
 Kelas : Informatika 04
 
